@@ -9,9 +9,9 @@
 # Ink Canvas Artistry
 [![UPSTREAM](https://img.shields.io/badge/UpStream-WXRIW%2FInk--Canvas-red.svg "LICENSE")](https://github.com/WXRIW/Ink-Canvas)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](./LICENSE)
-[![Latest release](https://img.shields.io/github/release/InkCanvas/Ink-Canvas-Artistry.svg?style=shield)](https://github.com/InkCanvas/Ink-Canvas-Artistry/releases/latest)
-[![GitHub issues](https://img.shields.io/github/issues/InkCanvas/Ink-Canvas-Artistry?logo=github)](https://github.com/InkCanvas/Ink-Canvas-Artistry/issues)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20617707731-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/AC777tzmEw)
+[![Latest release](https://img.shields.io/github/release/jizilin6732/Ink-Canvas-Attention.svg?style=shield)](https://github.com/jizilin6732/Ink-Canvas-Attention/releases/latest)
+[![GitHub issues](https://img.shields.io/github/issues/jizilin6732/Ink-Canvas-Attention?logo=github)](https://github.com/jizilin6732/Ink-Canvas-Attention/issues)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20680019081-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/680019081)
 
 ![Screenshot-1](./Images/Screenshot1.png)
 ![Screenshot-2](./Images/Screenshot2.png)
@@ -20,7 +20,7 @@
 </div>
 
 ## 👀 前言
-使用和分发本软件（原名 Ink-Canvas-For-Annotation）前，请您应当且务必知晓相关开源协议，本软件基于 https://github.com/WXRIW/Ink-Canvas 修改而成。对于墨迹功能的相关 issue 提出，可以优先查阅 https://github.com/WXRIW/Ink-Canvas/issues 。
+使用和分发本软件（原名 Ink Canvas Artistry）前，请您应当且务必知晓相关开源协议，本软件基于 https://github.com/WXRIW/Ink-Canvas 修改而成。对于墨迹功能的相关 issue 提出，可以优先查阅 https://github.com/WXRIW/Ink-Canvas/issues 。
 
 [直接下载](https://github.com/InkCanvas/Ink-Canvas-Artistry/releases/latest "Latest Releases")
 ——该安装包使用 Inno Setup Compiler 打包，默认的推荐设置适配希沃六代机的使用。
@@ -60,4 +60,4 @@ Support Active Pen (支持压感)
 
 2. Tencent QQ
 
-    [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20617707731-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/AC777tzmEw)
+    [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20680019081-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/680019081)
